@@ -22,11 +22,9 @@
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![React](https://skillicons.dev/icons?i=react)
-
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Django](https://skillicons.dev/icons?i=django)
-
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
