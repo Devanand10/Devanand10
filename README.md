@@ -1,11 +1,5 @@
-# 👋 Hello World! I'm Devanand S
+#                          👋 Hello World! I'm Devanand S
 
-💻 **Aspiring Full Stack Web Developer**  
-🚀 Passionate about building modern, responsive, and scalable web applications.  
-🎓 Currently improving my skills in both **frontend and backend development**.  
-🌱 Always learning new technologies and building projects.
-
----
 
 ## 🧑‍💻 About Me
 
