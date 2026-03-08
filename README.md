@@ -39,3 +39,8 @@
 </p>
 
 ⭐ **"Code. Learn. Build. Repeat."**
+
+<div align="center">
+  <img src="https://i.imgur.com/vH9fG7I.gif" alt="Animated Pixel Art Forest Scene" width="800" />
+</div>
+
