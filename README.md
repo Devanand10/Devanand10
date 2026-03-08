@@ -12,8 +12,6 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tools & Technologies
-
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,r" /><br>
 <img src="https://skillicons.dev/icons?i=javascript,html,css,django,mysql" /><br>
